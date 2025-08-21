@@ -10,3 +10,6 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 5 | Merge Two Sorted Arrays | Two Pointer Approach | O(n+m), O(1) |
 | 6 | Stock Buy and Sell | Greedy | O(n), O(1) |
 | 7 | Two Odd Occurring Numbers | Hashmap (unordered_map) | O(n), O(n) |
+| 8 | Power Function (x^n) | Binary Exponentiation | O(log n), O(1) |
+| 9 | Container With Most Water | Two Pointers | O(n), O(1) |
+| 10 | Sort 0s, 1s and 2s | Dutch National Flag Algorithm | O(n), O(1) |
