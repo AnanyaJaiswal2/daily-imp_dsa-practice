@@ -17,3 +17,12 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 12 | Four Sum | Sorting + Two Pointers | O(n^3), O(1) |
 | 13 | Search in 2D Matrix (Sorted Row & Column) | Binary Search-like | O(n+m), O(1) |
 | 14 | Find Duplicate Number | Brute (Sorting), Better (Hashmap), Optimal (Floyd’s Cycle Detection - TODO) | Brute O(n log n), Better O(n), Optimal O(n) |
+
+
+
+## Binary Search
+| # | Problem | Approaches | Complexities |
+|---|----------|------------|---------------|
+| 1 | Single Element in Sorted Array | Binary Search | O(log n), O(1) |
+| 2 | Peak Element | Binary Search | O(log n), O(1) |
+| 3 | Search in Rotated Sorted Array | Binary Search | O(log n), O(1) |
