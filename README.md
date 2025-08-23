@@ -17,7 +17,7 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 11 | 3Sum | Sorting + Two Pointers | O(n^2), O(1) |
 | 12 | 4Sum | Sorting + Two Pointers | O(n^3), O(1) |
 | 13 | Search in 2D Matrix | Binary Search | O(n+m), O(1) |
-| 14 | Find Duplicate Number | Brute, Better, Optimal (Tortoise-Hare) | O(n log n), O(n), O(1) |
+| 14 | Find Duplicate Number | Brute, Better, Optimal (Tortoise-Hare) TODO | O(n log n), O(n), O(1) |
 
 ---
 
