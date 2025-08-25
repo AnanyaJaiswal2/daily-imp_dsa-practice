@@ -20,6 +20,7 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 14 | Find Duplicate Number | Brute, Better, Optimal (Tortoise-Hare) TODO | O(n log n), O(n), O(1) |
 | 14 | Longest Unique Substring | Sliding Window + Hashing | O(n), O(1) |
 | 15 | Set Matrix Zeroes | Extra arrays for row & col marking | O(n*m), O(n+m) |
+| 16 | Product of Array Except Self | Brute (Optimal TODO: Prefix-Suffix Product) | O(n^2), O(1) |
 
 ---
 
@@ -31,4 +32,5 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 3 | Search in Rotated Sorted Array | Modified Binary Search | O(log n), O(1) |
 | 4 | Book Allocation | Binary Search + Greedy allocation | O(n log(sum)), O(1) |
 | 5 | Painter Partition | Binary Search + Greedy workers check | O(n log(sum)), O(1) |
-
+| 6 | Aggressive Cows(revise) | Binary Search + Greedy placement | O(n log(max)), O(1) |
+| 7 | Median of Two Sorted Arrays | Merge arrays (Optimal TODO: Binary Search Partitioning) | O(n+m), O(n+m) |
