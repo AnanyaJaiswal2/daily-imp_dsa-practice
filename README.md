@@ -18,9 +18,11 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 12 | 4Sum | Sorting + Two Pointers | O(n^3), O(1) |
 | 13 | Search in 2D Matrix | Binary Search | O(n+m), O(1) |
 | 14 | Find Duplicate Number | Brute, Better, Optimal (Tortoise-Hare) TODO | O(n log n), O(n), O(1) |
-| 14 | Longest Unique Substring | Sliding Window + Hashing | O(n), O(1) |
-| 15 | Set Matrix Zeroes | Extra arrays for row & col marking | O(n*m), O(n+m) |
-| 16 | Product of Array Except Self | Brute (Optimal TODO: Prefix-Suffix Product) | O(n^2), O(1) |
+| 15 | Longest Unique Substring | Sliding Window + Hashing | O(n), O(1) |
+| 16 | Set Matrix Zeroes | Extra arrays for row & col marking | O(n*m), O(n+m) |
+| 17 | Product of Array Except Self | Brute (Optimal TODO: Prefix-Suffix Product) | O(n^2), O(1) |
+| 17 | Product of Array Except Self | Prefix-Suffix (Optimal)(Concept revision) | O(n^2), O(n), O(n) |
+| 18 | Inversion Count | Merge Sort Divide & Conquer(CR) | O(n log n), O(n) |
 
 ---
 
