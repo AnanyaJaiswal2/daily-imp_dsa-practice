@@ -36,3 +36,10 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 5 | Painter Partition | Binary Search + Greedy workers check | O(n log(sum)), O(1) |
 | 6 | Aggressive Cows(revise) | Binary Search + Greedy placement | O(n log(max)), O(1) |
 | 7 | Median of Two Sorted Arrays | Merge arrays (Optimal TODO: Binary Search Partitioning) | O(n+m), O(n+m) |
+
+## Strings
+| #  | Problem | Approaches | Complexities |
+|----|----------|------------|---------------|
+| 1 | Check if Two Strings are Anagrams | HashMap Frequency Count | O(n), O(1) |
+| 2 | Check if String is Palindrome | Two Pointers | O(n), O(1) |
+| 3 | Longest Common Prefix | Sort + Compare First & Last | O(n log n), O(1) |
