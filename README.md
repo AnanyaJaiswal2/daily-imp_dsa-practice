@@ -44,3 +44,11 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 | 2 | Check if String is Palindrome | Two Pointers | O(n), O(1) |
 | 3 | Longest Common Prefix | Sort + Compare First & Last | O(n log n), O(1) |
 | 4 | Reverse Words in a String | Splitting + Reverse | O(n), O(n) |
+
+## Linked List
+| # | Problem | Approaches | Complexities |
+|---|----------|------------|---------------|
+| 1 | Remove Loop in Linked List | Floyd’s Cycle Detection + Fix | O(n), O(1) |
+| 2 | Detect Cycle in Linked List | Floyd’s Cycle Detection | O(n), O(1) |
+| 3 | Check if Linked List is Palindrome | Reverse 2nd Half + Compare | O(n), O(1) |
+
