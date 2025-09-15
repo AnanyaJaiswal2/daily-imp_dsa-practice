@@ -42,7 +42,7 @@ Daily practice of important DSA problems in C++ with multiple approaches (Brute,
 |----|----------|------------|---------------|
 | 1 | Check if Two Strings are Anagrams | HashMap Frequency Count | O(n), O(1) |
 | 2 | Check if String is Palindrome | Two Pointers | O(n), O(1) |
-| 3 | Longest Common Prefix | Sort + Compare First & Last | O(n log n), O(1) |
+| 3 | Longest Common Prefix (revise)| Sort + Compare First & Last | O(n log n), O(1) |
 | 4 | Reverse Words in a String | Splitting + Reverse | O(n), O(n) |
 
 ## Linked List
